@@ -8,4 +8,4 @@ The folder `datasets` contains all the files used in the post.
 
 And just because it is cool, here it is a nice gif:
 
-![](http://i.imgur.com/Ssfp7.gif)
+![](https://github.com/mirkomiorelli/mirkomiorelli.github.io/blob/master/images/test_world.gif)
